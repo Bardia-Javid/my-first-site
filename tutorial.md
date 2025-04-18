@@ -40,7 +40,7 @@ Open the cloned folder from File > Open Folder
 
 Inside your repo, create a file called index.md
 
-# Hello World 👋
+# Hello World 
 
 This is my first page on the internet!
 
